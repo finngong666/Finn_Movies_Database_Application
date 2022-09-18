@@ -1,0 +1,104 @@
+
+header{
+    width: 1249px;
+    margin: 5px auto;
+    background-color: pink;
+    border: 2px solid #980049;
+    border-radius: 10px;
+}
+
+h1{
+
+    padding: 35px;
+    margin: 5px auto;
+    width: 1249px;
+    color: #980049;
+}
+
+form > p {
+    display: block;
+    margin: 5px auto;
+    width: 1249px;
+    font-weight: 700;
+    padding: 10px 0;
+    background-color: pink;
+    border: 2px solid #980049;
+    border-radius: 10px;
+    color: #980049;
+}
+
+
+
+
+table{
+    /* border-collapse: collapse; */
+
+    margin: 5px auto;
+    padding: 10px;
+    width: 1249px;
+    background-color: white;
+}
+
+table > caption{
+    font-size: 20px;
+    color: #980049;
+    font-weight: 700;
+}
+table th{
+    padding: 17px;
+    color: white;
+    background-color: #980049;
+}
+
+table td{
+    font-size:13px;
+    padding: 10px;
+    text-align: center;
+}
+
+table tr:nth-last-child(2n){
+    background-color: pink;
+}
+
+
+main>p{
+    margin: 5px auto;
+    width: 1249px;
+    background-color: #980049;    
+    padding: 10px;
+
+}
+
+.btns{
+     border: none;
+     background: none;
+}
+
+.btns>a{
+    display: block;
+    padding: 10px;
+    color: #980049;
+    text-decoration: none;
+}
+
+.btns>a:hover{
+    background-color: rgb(251, 213, 219);
+}
+
+
+main>p>a{
+    color: white;
+    text-decoration: none;
+}
+
+
+footer >address{
+    display: block;
+    margin: 5px auto;
+    width: 1249px;
+}
+
+
+
+
+

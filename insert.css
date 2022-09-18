@@ -1,0 +1,70 @@
+
+body{
+    margin: 50px auto;
+}
+
+header{
+    width: 42%;
+    margin: 5px auto;
+    background-color: pink;
+    border: 2px solid #980049;
+    border-radius: 10px;
+}
+
+h1{
+    padding: 10px;
+    text-align: center;
+    color: #980049;
+}
+
+form{
+    width: 40%;
+    display: block;
+    padding: 12px ;
+    margin: 5px auto;
+    background-color: pink;
+    color: #980049;
+    font-size: 1.2em;
+    text-align: center;
+    border: 2px solid #980049;
+    border-radius: 10px;
+}
+
+
+
+form>div{
+    padding: 10px;
+    margin: 3px 0;
+    text-align: left;
+}
+
+input{ 
+  width: 100%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button{
+   padding: 10px;
+   margin-left: 10px;
+    border: none;
+    background: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+footer >address{
+    display: block;
+    margin: 5px auto;
+    width: 40%;
+}
+
+
